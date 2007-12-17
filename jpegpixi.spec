@@ -10,7 +10,6 @@ Source:		http://www.zero-based.org/software/jpegpixi/%{name}-%{version}.tar.bz2
 Url:		http://www.zero-based.org/software/jpegpixi/
 #Url:		http://jpegpixi.sourceforge.net/
 #Url:		http://sourceforge.net/projects/jpegpixi/
-BuildRoot:	%_tmppath/%name-%version-%release-root
 BuildRequires:	libjpeg-devel
 
 %description
