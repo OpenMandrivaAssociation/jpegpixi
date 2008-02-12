@@ -14,7 +14,6 @@ BuildRoot:	%_tmppath/%name-%version-%release-root
 BuildRequires:	libjpeg-devel
 
 %description
-
 "Jpegpixi" is short for "JPEG pixel interpolator". The intent of the
 program is to interpolate pixels in JFIF images (commonly referred to
 as "JPEG images"). This is useful to correct images from a digital
