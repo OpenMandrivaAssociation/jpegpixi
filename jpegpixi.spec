@@ -1,7 +1,7 @@
 Summary:	Command line tool to fix bad pixels in digital photos
 Name:		jpegpixi
 Version:	1.1.1
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL
 Group:		Graphics
 
