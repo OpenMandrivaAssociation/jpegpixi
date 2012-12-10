@@ -59,3 +59,62 @@ rm -fr %buildroot
 %doc AUTHORS COPYING ChangeLog INSTALL NEWS README README.jpeglib
 %_bindir/*
 %_mandir/*/*
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 1.1.1-5mdv2011.0
++ Revision: 612512
+- the mass rebuild of 2010.1 packages
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 1.1.1-4mdv2010.0
++ Revision: 429647
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tv@mandriva.org> 1.1.1-3mdv2009.0
++ Revision: 247421
+- rebuild
+- fix spacing at top of description
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Mon Dec 17 2007 Thierry Vignaud <tv@mandriva.org> 1.1.1-1mdv2008.1
++ Revision: 127415
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Marcelo Ricardo Leitner <mrl@mandriva.com>
+    - Import jpegpixi
+
+
+
+* Wed Nov 23 2005 Lenny Cartier <lenny@mandriva.com> 1.1.1-1mdk
+- 1.1.1
+
+* Tue Jun 14 2005 Nicolas Lécureuil <neoclust@mandriva.org> 1.1.0-1mdk
+- New release 1.1.0
+
+* Mon Oct 11 2004 Lenny Cartier <lenny@mandrakesoft.com> 1.0.2-1mdk
+- 1.0.2
+
+* Wed Oct 06 2004 Lenny Cartier <lenny@mandrakesoft.com> 1.0.1-1mdk
+- 1.0.1
+
+* Tue Aug 24 2004 Lenny Cartier <lenny@mandrakesoft.com> 0.16.0-1mdk
+- 0.16.0
+
+* Wed May 12 2004 Lenny Cartier <lenny@mandrakesoft.com> 0.15.1-1mdk
+- 0.15.1
+
+* Tue Mar 16 2004 Till Kamppeter <till@mandrakesoft.com> 0.14.2-1mdk
+- Version 0.14.2
+
+* Tue Dec 16 2003 Till Kamppeter <till@mandrakesoft.com> 0.13-1mdk
+- Version 0.13
+- Removed explicit library dependency (libjpeg62).
+
+* Wed Aug 20 2003 Till Kamppeter <till@mandrakesoft.com> 0.11-1mdk
+- Version 0.11
+- New URL
+
+* Sun Jul 27 2003 Till Kamppeter <till@mandrakesoft.com> 0.10-1mdk
+- Initial release
