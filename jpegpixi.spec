@@ -4,7 +4,7 @@ Version:	1.1.1
 Release:	7
 License:	GPLv2+
 Group:		Graphics
-Url:		http://www.zero-based.org/software/jpegpixi/
+Url:		https://www.zero-based.org/software/jpegpixi/
 Source0:	http://www.zero-based.org/software/jpegpixi/%{name}-%{version}.tar.bz2
 BuildRequires:	jpeg-devel
 
